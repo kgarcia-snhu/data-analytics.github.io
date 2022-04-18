@@ -1,6 +1,3 @@
-Welcome to the kgarcia-snhu's homepage!
-Capstone Projects
-
 # data-analytics.github.io
 Data Analytics ePortfolio
 
